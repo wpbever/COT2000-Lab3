@@ -26,3 +26,14 @@ I am studying `COT2000`.
 - [ ] Complete Markdown documentation
 
 
+## Useful Resources
+[GitHub](https://github.com)
+[Python](https://www.python.org)
+## Project Files
+| File | Description |
+| --- | --- |
+| lab3.py | Python program |
+| README.md | Project documentation |
+## Important Note
+> Always save your changes before
+> committing them to GitHub.
